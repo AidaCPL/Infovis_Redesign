@@ -13,7 +13,7 @@ The redesign focused on improving the visualization without introducing unnecess
 ### Repository Contents
 
 This repository includes:
-1. [Code](Code/Infovis_Redesgin_Project_code.ipynb): Python scripts using libraries like Plotly for the redesigned visualization.
+1. [Code](Code/Infovis_Redesign_Project_code.ipynb): Python scripts using libraries like Plotly for the redesigned visualization.
 2. [Dataset](Data/CR.csv): The original data retreived from the Arechar, et.al, paper.
 3. [Final Report](Documentation/README.md): Clear descriptions of the steps taken during redesign, including data transformations and visualization enhancements.
 
