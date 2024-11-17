@@ -13,9 +13,9 @@ The redesign focused on improving the visualization without introducing unnecess
 ### Repository Contents
 
 This repository includes:
-1. [Code](/Users/aidacamacho/Desktop/github/Infovis_Redesign/Code/Infovis_Redesgin_Porject_code.ipynb): Python scripts using libraries like Plotly for the redesigned visualization.
-2. [Dataser](/Users/aidacamacho/Desktop/github/Infovis_Redesign/Data/CR.csv): The original data retreived from the Arechar, et.al, paper.
-3. [Final Report](/Users/aidacamacho/Desktop/github/Infovis_Redesign/Documentation/README.md): Clear descriptions of the steps taken during redesign, including data transformations and visualization enhancements.
+1. [Code](Infovis_Redesgin_Porject_code.ipynb): Python scripts using libraries like Plotly for the redesigned visualization.
+2. [Dataser](Infovis_Redesign/Data/CR.csv): The original data retreived from the Arechar, et.al, paper.
+3. [Final Report](Infovis_Redesign/Documentation/README.md): Clear descriptions of the steps taken during redesign, including data transformations and visualization enhancements.
 
 ### How to Use This Repository
 
