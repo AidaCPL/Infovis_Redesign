@@ -4,7 +4,7 @@
 
 In the field of data visualization, effectively presenting complex research findings is critical for improving understanding and facilitating decision-making. I chose to analyze and redesign a figure in the academic article titled “Understanding and Combatting Misinformation Across 16 Countries on Six Continents” (Arechar et al., 2023), shown below as Figure 1. This figure is a visual representation of how participants across 16 countries rated the perceived accuracy of true and false news headlines during a study on misinformation.
 
-![Figure 1: Perceived accuracy of true and false headlines in 16 countries. Retrieved from (Arechar et al., 2023)](./Figures/original_figure.png)
+![Figure 1: Perceived accuracy of true and false headlines in 16 countries. Retrieved from (Arechar et al., 2023)](Figures/original_figure.png)
 
 The visualization is relevant in the context of global misinformation research, an academic field that combines psychology, sociology, and data analysis to understand the spread and belief in false information. Specifically, the figure highlights the distinction in perceived accuracy between true and false headlines in different countries, using bar charts with error margins to convey statistical reliability. This context is especially relevant given the increasing importance of combatting misinformation on social media platforms and its real-world implications, such as shaping public opinion or influencing behavior during crises like the COVID-19 pandemic.
 
